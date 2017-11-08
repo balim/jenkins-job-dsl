@@ -32,7 +32,8 @@ class DeleteXqueueSessions{
                         }
                     }
 
+                }
             }
     }
-
+   }
 }
